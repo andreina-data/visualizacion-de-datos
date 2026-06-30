@@ -17,4 +17,4 @@ Se usó: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 Metodologías y conceptos aplicados: Visualización de datos, framework de análisis What – Why – How, codificación visual, diseño de gráficos, análisis exploratorio de datos, comunicación visual de la información.
 
-Aprendizaje: Desarrollo de habilidades para analizar datos, diseñar visualizaciones y seleccionar el tipo de gráfico más adecuado según el objetivo del análisis, aplicando buenas prácticas de comunicación visual y herramientas ampliamente utilizadas en análisis de datos.
+Resultados obtenidos: Desarrollo de habilidades para analizar datos, diseñar visualizaciones y seleccionar el tipo de gráfico más adecuado según el objetivo del análisis, aplicando buenas prácticas de comunicación visual y herramientas ampliamente utilizadas en análisis de datos.
